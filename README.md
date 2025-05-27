@@ -72,4 +72,4 @@ Passionate about automation, security, and streamlining software delivery.
 
 ---
 
-> “The best way to predict the future is to create it.” – Peter Drucker
+> Build the future you believe in — one commit at a time.
