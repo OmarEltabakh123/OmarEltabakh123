@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi, I'm Omar Eltabakh 👋</h1>
+<h1 align="center">Hi, I'm Omar Eltabakh <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <h3 align="center">Junior DevOps Engineer | Kubernetes & Automation Enthusiast</h3>
 
 ---
