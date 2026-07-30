@@ -1,12 +1,12 @@
 
 <h1 align="center">Hi, I'm Omar Eltabakh <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-<h3 align="center">Junior DevOps Engineer | Kubernetes & Automation Enthusiast</h3>
+<h3 align="center"> DevOps Engineer | Kubernetes & Automation Enthusiast</h3>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a Junior DevOps Engineer and Information Technology Institute (ITI) graduate from the System Administration track (2024/2025).  
+I'm a DevOps Engineer and Information Technology Institute (ITI) graduate from the System Administration track (2024/2025).  
 Certified RHCSA and experienced in Linux, Docker, Kubernetes, and automation tools like Ansible.  
 Skilled in building CI/CD pipelines and deploying infrastructure with Terraform and Jenkins.  
 Passionate about automation, security, and streamlining software delivery.
